@@ -1,0 +1,6 @@
+Q:\Intense\!Intense API\Projects\Nauka\HumanConsol\HumanConsol\obj\Debug\HumanConsole.csprojResolveAssemblyReference.cache
+Q:\Intense\!Intense API\Projects\Nauka\HumanConsol\HumanConsol\bin\Debug\HumanConsol.exe.config
+Q:\Intense\!Intense API\Projects\Nauka\HumanConsol\HumanConsol\bin\Debug\HumanConsol.exe
+Q:\Intense\!Intense API\Projects\Nauka\HumanConsol\HumanConsol\bin\Debug\HumanConsol.pdb
+Q:\Intense\!Intense API\Projects\Nauka\HumanConsol\HumanConsol\obj\Debug\HumanConsol.exe
+Q:\Intense\!Intense API\Projects\Nauka\HumanConsol\HumanConsol\obj\Debug\HumanConsol.pdb

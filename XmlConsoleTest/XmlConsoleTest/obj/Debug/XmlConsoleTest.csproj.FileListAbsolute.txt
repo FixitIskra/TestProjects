@@ -1,0 +1,6 @@
+Q:\Intense\!Intense API\Projects\Nauka\XmlConsoleTest\XmlConsoleTest\bin\Debug\XmlConsoleTest.exe.config
+Q:\Intense\!Intense API\Projects\Nauka\XmlConsoleTest\XmlConsoleTest\bin\Debug\XmlConsoleTest.exe
+Q:\Intense\!Intense API\Projects\Nauka\XmlConsoleTest\XmlConsoleTest\bin\Debug\XmlConsoleTest.pdb
+Q:\Intense\!Intense API\Projects\Nauka\XmlConsoleTest\XmlConsoleTest\obj\Debug\XmlConsoleTest.csprojResolveAssemblyReference.cache
+Q:\Intense\!Intense API\Projects\Nauka\XmlConsoleTest\XmlConsoleTest\obj\Debug\XmlConsoleTest.exe
+Q:\Intense\!Intense API\Projects\Nauka\XmlConsoleTest\XmlConsoleTest\obj\Debug\XmlConsoleTest.pdb

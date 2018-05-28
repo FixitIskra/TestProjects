@@ -1,0 +1,5 @@
+Q:\Intense\!Intense API\Projects\Nauka\TextFormatConsole\TextFormatConsole\bin\Debug\TextFormatConsole.exe.config
+Q:\Intense\!Intense API\Projects\Nauka\TextFormatConsole\TextFormatConsole\bin\Debug\TextFormatConsole.exe
+Q:\Intense\!Intense API\Projects\Nauka\TextFormatConsole\TextFormatConsole\bin\Debug\TextFormatConsole.pdb
+Q:\Intense\!Intense API\Projects\Nauka\TextFormatConsole\TextFormatConsole\obj\Debug\TextFormatConsole.exe
+Q:\Intense\!Intense API\Projects\Nauka\TextFormatConsole\TextFormatConsole\obj\Debug\TextFormatConsole.pdb

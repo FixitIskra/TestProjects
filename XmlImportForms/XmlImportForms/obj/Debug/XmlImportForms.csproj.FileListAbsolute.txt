@@ -1,0 +1,9 @@
+Q:\Intense\!Intense API\Projects\Nauka\XmlImportForms\XmlImportForms\bin\Debug\XmlImportForms.exe.config
+Q:\Intense\!Intense API\Projects\Nauka\XmlImportForms\XmlImportForms\bin\Debug\XmlImportForms.exe
+Q:\Intense\!Intense API\Projects\Nauka\XmlImportForms\XmlImportForms\bin\Debug\XmlImportForms.pdb
+Q:\Intense\!Intense API\Projects\Nauka\XmlImportForms\XmlImportForms\obj\Debug\XmlImportForms.csprojResolveAssemblyReference.cache
+Q:\Intense\!Intense API\Projects\Nauka\XmlImportForms\XmlImportForms\obj\Debug\XmlImportForms.Properties.Resources.resources
+Q:\Intense\!Intense API\Projects\Nauka\XmlImportForms\XmlImportForms\obj\Debug\XmlImportForms.csproj.GenerateResource.Cache
+Q:\Intense\!Intense API\Projects\Nauka\XmlImportForms\XmlImportForms\obj\Debug\XmlImportForms.exe
+Q:\Intense\!Intense API\Projects\Nauka\XmlImportForms\XmlImportForms\obj\Debug\XmlImportForms.pdb
+Q:\Intense\!Intense API\Projects\Nauka\XmlImportForms\XmlImportForms\obj\Debug\XmlImportForms.Form1.resources

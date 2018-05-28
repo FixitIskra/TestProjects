@@ -1,0 +1,6 @@
+Q:\Intense\!Intense API\Projects\Nauka\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+Q:\Intense\!Intense API\Projects\Nauka\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+Q:\Intense\!Intense API\Projects\Nauka\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+Q:\Intense\!Intense API\Projects\Nauka\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.csprojResolveAssemblyReference.cache
+Q:\Intense\!Intense API\Projects\Nauka\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+Q:\Intense\!Intense API\Projects\Nauka\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb

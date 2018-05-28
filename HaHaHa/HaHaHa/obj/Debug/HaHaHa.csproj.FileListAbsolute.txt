@@ -1,0 +1,6 @@
+Q:\Intense\!Intense API\Projects\Nauka\HaHaHa\HaHaHa\bin\Debug\HaHaHa.exe.config
+Q:\Intense\!Intense API\Projects\Nauka\HaHaHa\HaHaHa\bin\Debug\HaHaHa.exe
+Q:\Intense\!Intense API\Projects\Nauka\HaHaHa\HaHaHa\bin\Debug\HaHaHa.pdb
+Q:\Intense\!Intense API\Projects\Nauka\HaHaHa\HaHaHa\obj\Debug\HaHaHa.csprojResolveAssemblyReference.cache
+Q:\Intense\!Intense API\Projects\Nauka\HaHaHa\HaHaHa\obj\Debug\HaHaHa.exe
+Q:\Intense\!Intense API\Projects\Nauka\HaHaHa\HaHaHa\obj\Debug\HaHaHa.pdb

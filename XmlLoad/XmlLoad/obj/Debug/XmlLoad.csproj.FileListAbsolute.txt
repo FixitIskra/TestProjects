@@ -1,0 +1,5 @@
+Q:\Intense\!Intense API\Projects\Nauka\XmlLoad\XmlLoad\obj\Debug\XmlLoad.csprojResolveAssemblyReference.cache
+Q:\Intense\!Intense API\Projects\Nauka\XmlLoad\XmlLoad\bin\Debug\XmlLoad.dll
+Q:\Intense\!Intense API\Projects\Nauka\XmlLoad\XmlLoad\bin\Debug\XmlLoad.pdb
+Q:\Intense\!Intense API\Projects\Nauka\XmlLoad\XmlLoad\obj\Debug\XmlLoad.dll
+Q:\Intense\!Intense API\Projects\Nauka\XmlLoad\XmlLoad\obj\Debug\XmlLoad.pdb

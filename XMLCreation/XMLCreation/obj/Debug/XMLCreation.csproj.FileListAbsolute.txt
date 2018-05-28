@@ -1,0 +1,6 @@
+Q:\Intense\!Intense API\Projects\Nauka\XMLCreation\XMLCreation\bin\Debug\XMLCreation.exe.config
+Q:\Intense\!Intense API\Projects\Nauka\XMLCreation\XMLCreation\bin\Debug\XMLCreation.exe
+Q:\Intense\!Intense API\Projects\Nauka\XMLCreation\XMLCreation\bin\Debug\XMLCreation.pdb
+Q:\Intense\!Intense API\Projects\Nauka\XMLCreation\XMLCreation\obj\Debug\XMLCreation.csprojResolveAssemblyReference.cache
+Q:\Intense\!Intense API\Projects\Nauka\XMLCreation\XMLCreation\obj\Debug\XMLCreation.exe
+Q:\Intense\!Intense API\Projects\Nauka\XMLCreation\XMLCreation\obj\Debug\XMLCreation.pdb

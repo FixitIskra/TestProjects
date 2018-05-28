@@ -1,0 +1,6 @@
+Q:\Intense\!Intense API\Projects\Nauka\XmlImport\XmlImport\bin\Debug\XmlImport.exe.config
+Q:\Intense\!Intense API\Projects\Nauka\XmlImport\XmlImport\bin\Debug\XmlImport.exe
+Q:\Intense\!Intense API\Projects\Nauka\XmlImport\XmlImport\bin\Debug\XmlImport.pdb
+Q:\Intense\!Intense API\Projects\Nauka\XmlImport\XmlImport\obj\Debug\XmlImport.csprojResolveAssemblyReference.cache
+Q:\Intense\!Intense API\Projects\Nauka\XmlImport\XmlImport\obj\Debug\XmlImport.exe
+Q:\Intense\!Intense API\Projects\Nauka\XmlImport\XmlImport\obj\Debug\XmlImport.pdb
