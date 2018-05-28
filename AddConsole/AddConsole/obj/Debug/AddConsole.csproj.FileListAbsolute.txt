@@ -1,0 +1,5 @@
+Q:\Intense\!Intense API\Projects\Nauka\AddConsole\AddConsole\bin\Debug\AddConsole.exe.config
+Q:\Intense\!Intense API\Projects\Nauka\AddConsole\AddConsole\bin\Debug\AddConsole.exe
+Q:\Intense\!Intense API\Projects\Nauka\AddConsole\AddConsole\bin\Debug\AddConsole.pdb
+Q:\Intense\!Intense API\Projects\Nauka\AddConsole\AddConsole\obj\Debug\AddConsole.exe
+Q:\Intense\!Intense API\Projects\Nauka\AddConsole\AddConsole\obj\Debug\AddConsole.pdb
